@@ -1,6 +1,6 @@
 # Description
 
-This is a compatibility plugin for [WooCommerce Delivery Slots](https://iconicwp.com/products/woocommerce-delivery-slots/?utm_source=Iconic&utm_medium=Github&utm_campaign=iconic-woo-delivery-slots-compat-shipping-pro)  by Iconic and [Flat Rate Shipping Plugin For WooCommerce](https://wordpress.org/plugins/woo-extra-flat-rate/) by theDotstore.
+This is a compatibility plugin for [WooCommerce Delivery Slots](https://iconicwp.com/products/woocommerce-delivery-slots/?utm_source=Iconic&utm_medium=Github&utm_campaign=iconic-woo-delivery-slots-compat-shipping-pro)  by Kadence and [Flat Rate Shipping Plugin For WooCommerce](https://wordpress.org/plugins/woo-extra-flat-rate/) by theDotstore.
 
 # Changelog
 

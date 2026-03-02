@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name:     WooCommerce Delivery Slots by Iconic [Flat Rate Shipping Plugin For WooCommerce]
+ * Plugin Name:     WooCommerce Delivery Slots by Kadence [Flat Rate Shipping Plugin For WooCommerce]
  * Plugin URI:      https://iconicwp.com/products/woocommerce-delivery-slots/
- * Description:     Compatibility between WooCommerce Delivery Slots by Iconic and Flat Rate Shipping Plugin For WooCommerce by theDotstore.
- * Author:          Iconic
- * Author URI:      https://iconicwp.com/
+ * Description:     Compatibility between WooCommerce Delivery Slots by Kadence and Flat Rate Shipping Plugin For WooCommerce by theDotstore.
+ * Author:          Kadence WP
+ * Author URI:      https://www.kadencewp.com/
  * Text Domain:     iconic-woo-delivery-slots-compat-flat-rate-shipping
  * Domain Path:     /languages
  * Version:         0.1.0
